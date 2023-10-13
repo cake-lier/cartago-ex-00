@@ -1,4 +1,4 @@
-mas hello_world {
+mas exercise_00 {
     agent hello_agent
     // agent hello_agent_solution
 
